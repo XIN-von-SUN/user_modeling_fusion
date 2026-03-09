@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Experiments
 
 This folder contains analysis code for self-report and gaze data.
@@ -14,3 +15,6 @@ This folder contains analysis code for self-report and gaze data.
 - `analysis_results/`: exported tables and model outputs
 - `figures/`: exported figures
 
+=======
+# user_modeling_fusion
+>>>>>>> 2a5dd41445cf8792fda03544e1a84762fc05b957

@@ -12,9 +12,5 @@ This folder contains analysis code for self-report and gaze data.
 - `gaze_plot_anova_posthoc.py`: omnibus plotting with ANOVA/post-hoc summaries
 - `gaze_plot_pairwise_ttest.py`: pairwise t-test plotting utilities
 - `gaze_ml_prediction.py`: ML prediction from features
-- `analysis_results/`: exported tables and model outputs
-- `figures/`: exported figures
-
-=======
-# user_modeling_fusion
->>>>>>> 2a5dd41445cf8792fda03544e1a84762fc05b957
+- `data/`: stimuli dataset and the results
+- `figures/`: figures
